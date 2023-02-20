@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: 达芬奇的乌龙茶
 description: 达芬奇的乌龙茶
+markdown: kramdown
