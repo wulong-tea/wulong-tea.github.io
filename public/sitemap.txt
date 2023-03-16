@@ -1,2 +1,3 @@
+http://example.com/2023/03/16/fe-auto-testing/
 http://example.com/2023/03/10/nodejs-brief/
 http://example.com/
