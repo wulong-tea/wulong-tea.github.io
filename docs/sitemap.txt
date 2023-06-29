@@ -1,4 +1,9 @@
-http://example.com/2023/03/16/fe-auto-testing/
-http://example.com/2023/03/16/react-hooks/
-http://example.com/2023/03/10/nodejs-brief/
-http://example.com/
+http://wulong-tea.github.io/2023/03/16/react-hooks/
+http://wulong-tea.github.io/2023/03/10/nodejs-brief/
+http://wulong-tea.github.io/2023/03/16/fe-auto-testing/
+http://wulong-tea.github.io/
+http://wulong-tea.github.io/tags/%E5%89%8D%E7%AB%AF/
+http://wulong-tea.github.io/tags/test/
+http://wulong-tea.github.io/tags/nodejs/
+http://wulong-tea.github.io/tags/react/
+http://wulong-tea.github.io/categories/%E5%89%8D%E7%AB%AF/

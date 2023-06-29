@@ -1,10 +1,13 @@
 ---
 title: React Hooks
+toc: true
 date: 2023-03-16 16:45:17
-tags:
+tags: 
+  - react
+  - 前端
+categories:
+  - 前端
 ---
-
-[toc]
 
 Reactjs是一个用于构建用户界面的JavaScript库，它提供了一种称为Hooks的特性，让你可以在函数组件中使用状态和其他React特性，而不需要写类组件。
 
@@ -21,6 +24,8 @@ Reactjs是一个用于构建用户界面的JavaScript库，它提供了一种称
 ### `useContext`
 
 - `useContext`：用于在函数组件中访问React的上下文。它接受一个上下文对象作为参数，并返回该上下文的当前值。你可以使用`useContext`来避免通过多层组件传递props。
+
+<!--more-->
 
 ### `useReducer`
 

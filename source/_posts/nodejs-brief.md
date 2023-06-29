@@ -1,8 +1,15 @@
 ---
 title: Node.js 浅析
 date: 2023-03-10 14:48:17
-tags:
+toc: true
+tags: 
+    - nodejs
+    - 前端
+categories:
+    - 前端
 ---
+
+<!-- toc -->
 
 ## 什么是 Node.js
 
@@ -13,6 +20,8 @@ tags:
 由于 Node.js 的出现，使 Javascript 彻底摆脱浏览器成为一门独立的编程语言。和其它编程语言 Python, Java, Rube 等一样，除了本身擅长前端开发以外，Javascript 也可以开发后台、GUI程序、CLI命令行工具等等。Javascript 有庞大开发者基础，所以 Node.js 的出现使基于 Javascript 的技术栈直接井喷。
 
 Node.js 的安装使用可以参考：[Node.js Tutorial](https://www.runoob.com/nodejs/nodejs-tutorial.html)
+
+<!--more-->
 
 ## Node.js 的特点
 
@@ -27,7 +36,6 @@ Node.js 的最大特点在于它基于高性能的 Chrome V8 引擎，提供了�
 ## 性能对比
 
 引用：[Node.js vs Springboot: Hello world performance comparison](https://medium.com/deno-the-complete-reference/node-js-vs-springboot-hello-world-performance-comparison-59b4d461526c)
-
 
 传统 Spring Boot 和 Node.js 的性能对比。
 **需要说明的是这并不是一个严谨的比较，因为基于 Java 语言也有很多优秀的 NIO 模型框架，比如 Netty、以及基于 Netty 的 spring5-webflux，其提供了恐怖的并发性能。所以这个比较只是一个示例，用于说明 Node.js 在特定场景下的的优势，仅供参考。勿喷。**

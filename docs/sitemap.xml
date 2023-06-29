@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2023/03/16/fe-auto-testing/</loc>
+    <loc>http://wulong-tea.github.io/2023/03/16/react-hooks/</loc>
     
-    <lastmod>2023-03-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/2023/03/16/react-hooks/</loc>
-    
-    <lastmod>2023-03-16</lastmod>
+    <lastmod>2023-06-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/2023/03/10/nodejs-brief/</loc>
+    <loc>http://wulong-tea.github.io/2023/03/10/nodejs-brief/</loc>
     
-    <lastmod>2023-03-10</lastmod>
+    <lastmod>2023-06-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://wulong-tea.github.io/2023/03/16/fe-auto-testing/</loc>
+    
+    <lastmod>2023-06-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -30,13 +30,48 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2023-03-17</lastmod>
+    <loc>http://wulong-tea.github.io/</loc>
+    <lastmod>2023-06-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>http://wulong-tea.github.io/tags/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2023-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://wulong-tea.github.io/tags/test/</loc>
+    <lastmod>2023-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://wulong-tea.github.io/tags/nodejs/</loc>
+    <lastmod>2023-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://wulong-tea.github.io/tags/react/</loc>
+    <lastmod>2023-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>http://wulong-tea.github.io/categories/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2023-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
