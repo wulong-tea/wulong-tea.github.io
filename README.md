@@ -1,5 +1,3 @@
-# top-lean-sword.github.io
-
 ## hexo
 
 - 本工程是基于 hexo 构建，具体使用方法请访问链接: <https://hexo.io/docs/>
