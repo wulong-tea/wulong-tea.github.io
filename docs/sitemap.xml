@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://wulong-tea.github.io/2023/07/14/muscle-loss/</loc>
+    
+    <lastmod>2023-07-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://wulong-tea.github.io/2023/07/14/us-doller-affect/</loc>
     
     <lastmod>2023-07-14</lastmod>
@@ -61,7 +70,7 @@
   </url>
   
   <url>
-    <loc>http://wulong-tea.github.io/tags/nodejs/</loc>
+    <loc>http://wulong-tea.github.io/tags/%E5%81%A5%E5%BA%B7/</loc>
     <lastmod>2023-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -69,6 +78,13 @@
   
   <url>
     <loc>http://wulong-tea.github.io/tags/react/</loc>
+    <lastmod>2023-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://wulong-tea.github.io/tags/nodejs/</loc>
     <lastmod>2023-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -85,6 +101,13 @@
   
   <url>
     <loc>http://wulong-tea.github.io/categories/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2023-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://wulong-tea.github.io/categories/%E5%81%A5%E5%BA%B7/</loc>
     <lastmod>2023-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
