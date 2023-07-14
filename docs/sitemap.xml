@@ -77,13 +77,6 @@
   </url>
   
   <url>
-    <loc>http://wulong-tea.github.io/tags/react/</loc>
-    <lastmod>2023-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://wulong-tea.github.io/tags/nodejs/</loc>
     <lastmod>2023-07-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -92,6 +85,13 @@
   
   <url>
     <loc>http://wulong-tea.github.io/tags/%E7%BB%8F%E6%B5%8E/</loc>
+    <lastmod>2023-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://wulong-tea.github.io/tags/react/</loc>
     <lastmod>2023-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
