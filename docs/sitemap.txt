@@ -1,3 +1,4 @@
+http://wulong-tea.github.io/2023/07/14/us-doller-affect/
 http://wulong-tea.github.io/2023/03/10/nodejs-brief/
 http://wulong-tea.github.io/2023/03/16/react-hooks/
 http://wulong-tea.github.io/2023/03/16/fe-auto-testing/
@@ -6,4 +7,6 @@ http://wulong-tea.github.io/tags/%E5%89%8D%E7%AB%AF/
 http://wulong-tea.github.io/tags/test/
 http://wulong-tea.github.io/tags/nodejs/
 http://wulong-tea.github.io/tags/react/
+http://wulong-tea.github.io/tags/%E7%BB%8F%E6%B5%8E/
 http://wulong-tea.github.io/categories/%E5%89%8D%E7%AB%AF/
+http://wulong-tea.github.io/categories/%E7%BB%8F%E6%B5%8E/
